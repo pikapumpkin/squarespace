@@ -161,6 +161,9 @@
 
     <squarespace:script src="site-bundle.js" combo="false" />
 
+    <squarespace:script src="gulpfile.js" combo="true"
+    />
+
     {squarespace-footers}
 
   </body>
